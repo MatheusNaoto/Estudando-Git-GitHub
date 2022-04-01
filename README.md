@@ -55,6 +55,7 @@ Usar Markdown em Readme.md, em issues e em Pull reqquests com varios comandos qu
     * depois um "git commit -m 'mensagem' " 
     * além disso temos o "git branch para -M 'Nome da branch' "(para mudar o nome da branch )
     * git remote add origin (url do perfil do GitHub), cria um reposiótio com o nome no github
+        * Se aparecer " remote origin already exist" apenas dar um "remote set-url origin "url"
     * git push -u "apelido" "nome da branch"
     * git add . (manda todos os files para o stage)
     * depois da primeira conecção não precisa dar o add origin 
