@@ -2,6 +2,8 @@
 ### Início dos estudos de Git & GitHub: 30/03/2022
 ### Fim dos estudos de Git & GitHub: 01/04/2022
 ---
+
+Antes de começar a usar o git / github é necessário criar uma chave ssh, salvar globalmente seu email e nome. Salvar sua chave ssh no github, para que assim voce possa dar um clone ou init no seu projeto.
 ## Termos:
 ---
 
